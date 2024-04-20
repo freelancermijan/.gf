@@ -1,16 +1,15 @@
 {
     "flags": "-iE",
-     "patterns": [
-
+    "patterns": [
         "cat=",
         "dir=",
-        "action="
+        "action=",
         "board=",
         "date=",
         "detail=",
         "file=",
         "download=",
-        "path",
+        "path=",
         "folder=",
         "prefix=",
         "include=",
@@ -27,5 +26,5 @@
         "layout=",
         "mod=",
         "conf="
-]
+    ]
 }
