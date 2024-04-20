@@ -67,6 +67,7 @@
 "checkout_url=",
 "continue=",
 "return_path=",
-"=http"
+"=http",
+"?next="
 ]
 }
