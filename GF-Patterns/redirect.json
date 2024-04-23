@@ -68,6 +68,7 @@
 "continue=",
 "return_path=",
 "=http",
-"?next="
+"?next=",
+"nextUrl="
 ]
 }
