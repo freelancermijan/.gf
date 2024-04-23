@@ -1,0 +1,32 @@
+{
+    "flags": "-iE",
+     "patterns": [
+
+        "q=",
+        "s=",
+        "search=",
+        "id=",
+        "lang=",
+        "keyword=",
+        "query=",
+        "page=",
+        "keywords=",
+        "year=",
+        "view=",
+        "email=",
+        "type=",
+        "name=",
+        "p=",
+        "month=",
+        "image=",
+        "list_type=",
+        "url=",
+        "terms=",
+        "categoryid=",
+        "key=",
+        "l=",
+        "begindate=",
+        "enddate=",
+        "invitedby="
+]
+}
