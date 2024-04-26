@@ -3,6 +3,7 @@
      "patterns": [
 
         "id=",
+        ".php",
         "page=",
         "report=",
         "dir=",
