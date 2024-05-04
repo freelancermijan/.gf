@@ -2,7 +2,6 @@
   "flags": "-iE",
   "patterns": [
     "id=",
-    ".php",
     "page=",
     "report=",
     "dir=",
