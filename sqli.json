@@ -246,6 +246,7 @@
     "delete=",
     "string=",
     "number=",
-    "filter="
+    "filter=",
+    "?recherche="
   ]
 }
