@@ -2,6 +2,7 @@
   "flags": "-iE",
   "patterns": [
     "id=",
+    "?cat_id=",
     "?term=",
     "page=",
     "report=",
