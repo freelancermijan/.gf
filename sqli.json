@@ -3,6 +3,7 @@
     "patterns": [
         ".php?action=",
         ".php?module=",
+        "?rep=",
         ".php?page=",
         ".php?search=",
         "?recherche=",
