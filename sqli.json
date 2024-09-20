@@ -4,6 +4,7 @@
         ".php?action=",
         ".php?module=",
         "?rep=",
+        "selectID=",
         ".php?page=",
         ".php?search=",
         "?recherche=",
